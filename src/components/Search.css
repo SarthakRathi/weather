@@ -39,12 +39,12 @@
   border: none;
   outline: 0;
   padding: 12px 25px;
-  font-size: 18px;
+  font-size: 15px;
   background-color: rgb(222, 237, 243);
   color: black;
   border-radius: 30px;
   flex: 1;
-  margin-right: 12px;
+  margin-right: 5px;
 }
 
 .search button {
