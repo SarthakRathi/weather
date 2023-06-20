@@ -1,0 +1,45 @@
+.winfo .icon {
+  margin-top: 20px;
+  width: 170px;
+}
+
+.winfo h1 {
+  font-size: 70px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+.winfo h2 {
+  font-size: 40px;
+  font-weight: 400;
+  margin-top: -40px;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  margin-top: 50px;
+}
+
+.details .col {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.details .col img {
+  width: 45px;
+  margin-right: 10px;
+}
+
+.humidity,
+.wind {
+  font-size: 23px;
+}
+
+.humidity p,
+.wind p {
+  margin: 0;
+}
